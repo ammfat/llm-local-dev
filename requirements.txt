@@ -1,6 +1,7 @@
+ipykernel
+bitsandbytes
 torch
 transformers
 python-dotenv
 pandas
 numpy
-ipykernel
